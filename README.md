@@ -36,7 +36,7 @@
 	![image](https://user-images.githubusercontent.com/83286077/116246310-7f1d9200-a787-11eb-93d7-75b9d6715805.png)
 			
  7) Execute the automation suite using the appropriate mvn command
- 8) Below are the URLs which Zalenium provides us to view the execution status,
+ 8) Once the automation suite is execuetd, below URLs to will help us to view and track execution status,
  
     **a) Grid Console:**
     
